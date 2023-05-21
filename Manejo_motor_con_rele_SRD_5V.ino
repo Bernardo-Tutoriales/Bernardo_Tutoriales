@@ -12,7 +12,7 @@ https://www.amazon.es/shop/bernardocruz
 
 Es muy aconsejable que veas el capítulo del ejercicio en el
 curso de Arduino de YouTube para una mejor comprension:
-
+https://www.youtube.com/watch?v=A75o7NI2NNY
 ________________________________
 */
 
